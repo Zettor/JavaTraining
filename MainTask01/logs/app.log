@@ -1,0 +1,222 @@
+2019-06-14 01:16:50 INFO  root:25 - [8.0, 3.0, 4.0, 2.0, 4.0]
+2019-06-14 01:16:50 INFO  root:13 - Maximum: 8.0
+2019-06-14 01:16:50 INFO  root:13 - Minimum: 8.0
+2019-06-14 01:16:50 INFO  root:13 - Arithmetic Mean: 4.2
+2019-06-14 01:16:50 INFO  root:13 - Geometric Mean: 3.7763500451796084
+2019-06-14 01:16:50 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:16:50 INFO  root:18 - The searching index 1
+2019-06-14 01:16:50 INFO  root:18 - The searching index 2
+2019-06-14 01:16:50 INFO  root:18 - The searching index 4
+2019-06-14 01:16:50 INFO  root:13 - Reverse vector:
+2019-06-14 01:16:50 INFO  root:25 - [4.0, 2.0, 4.0, 3.0, 8.0]
+2019-06-14 01:16:50 INFO  root:13 - Sorted vector:
+2019-06-14 01:16:50 INFO  root:25 - [2.0, 3.0, 4.0, 4.0, 8.0]
+2019-06-14 01:16:50 INFO  root:18 - The searching index 2
+2019-06-14 01:16:50 INFO  root:13 - Sorted vector:
+2019-06-14 01:16:50 INFO  root:25 - [8.0, 4.0, 4.0, 3.0, 2.0]
+2019-06-14 01:16:50 INFO  root:13 - Sorted vector:
+2019-06-14 01:16:50 INFO  root:25 - [2.0, 3.0, 4.0, 4.0, 8.0]
+2019-06-14 01:16:50 INFO  root:13 - Sorted vector:
+2019-06-14 01:16:50 INFO  root:25 - [8.0, 4.0, 4.0, 3.0, 2.0]
+2019-06-14 01:16:50 INFO  root:13 - Sorted vector:
+2019-06-14 01:16:50 INFO  root:25 - [2.0, 3.0, 4.0, 4.0, 8.0]
+2019-06-14 01:17:23 INFO  root:25 - [7.0, 7.0, 1.0, 1.0, 4.0]
+2019-06-14 01:17:23 INFO  root:13 - Maximum: 7.0
+2019-06-14 01:17:23 INFO  root:13 - Minimum: 7.0
+2019-06-14 01:17:23 INFO  root:13 - Arithmetic Mean: 4.0
+2019-06-14 01:17:23 INFO  root:13 - Geometric Mean: 2.8737647560281374
+2019-06-14 01:17:23 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:17:23 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:17:23 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:17:23 INFO  root:18 - The searching index 4
+2019-06-14 01:17:23 INFO  root:13 - Reverse vector:
+2019-06-14 01:17:23 INFO  root:25 - [4.0, 1.0, 1.0, 7.0, 7.0]
+2019-06-14 01:17:23 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:23 INFO  root:25 - [1.0, 1.0, 4.0, 7.0, 7.0]
+2019-06-14 01:17:23 INFO  root:18 - The searching index 2
+2019-06-14 01:17:23 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:23 INFO  root:25 - [7.0, 7.0, 4.0, 1.0, 1.0]
+2019-06-14 01:17:23 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:23 INFO  root:25 - [1.0, 1.0, 4.0, 7.0, 7.0]
+2019-06-14 01:17:23 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:23 INFO  root:25 - [7.0, 7.0, 4.0, 1.0, 1.0]
+2019-06-14 01:17:23 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:23 INFO  root:25 - [1.0, 1.0, 4.0, 7.0, 7.0]
+2019-06-14 01:17:32 INFO  root:25 - [7.0, 1.0, 5.0, 1.0, 0.0]
+2019-06-14 01:17:32 INFO  root:13 - Maximum: 7.0
+2019-06-14 01:17:32 INFO  root:13 - Minimum: 7.0
+2019-06-14 01:17:32 INFO  root:13 - Arithmetic Mean: 2.8
+2019-06-14 01:17:32 INFO  root:13 - Geometric Mean: 0.0
+2019-06-14 01:17:32 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:17:32 INFO  root:18 - The searching index 1
+2019-06-14 01:17:32 INFO  root:18 - The searching index 2
+2019-06-14 01:17:32 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:17:32 INFO  root:13 - Reverse vector:
+2019-06-14 01:17:32 INFO  root:25 - [0.0, 1.0, 5.0, 1.0, 7.0]
+2019-06-14 01:17:32 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:32 INFO  root:25 - [0.0, 1.0, 1.0, 5.0, 7.0]
+2019-06-14 01:17:32 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:17:32 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:32 INFO  root:25 - [7.0, 5.0, 1.0, 1.0, 0.0]
+2019-06-14 01:17:32 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:32 INFO  root:25 - [0.0, 1.0, 1.0, 5.0, 7.0]
+2019-06-14 01:17:32 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:32 INFO  root:25 - [7.0, 5.0, 1.0, 1.0, 0.0]
+2019-06-14 01:17:32 INFO  root:13 - Sorted vector:
+2019-06-14 01:17:32 INFO  root:25 - [0.0, 1.0, 1.0, 5.0, 7.0]
+2019-06-14 01:18:15 INFO  root:25 - [5.0, 7.0, 2.0, 3.0, 3.0]
+2019-06-14 01:18:15 INFO  root:13 - Maximum: 7.0
+2019-06-14 01:18:15 INFO  root:13 - Minimum: 7.0
+2019-06-14 01:18:15 INFO  root:13 - Arithmetic Mean: 4.0
+2019-06-14 01:18:15 INFO  root:13 - Geometric Mean: 3.6296780899037064
+2019-06-14 01:18:15 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:18:15 INFO  root:18 - The searching index 2
+2019-06-14 01:18:15 INFO  root:18 - The searching index 1
+2019-06-14 01:18:15 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:18:15 INFO  root:13 - Reverse vector:
+2019-06-14 01:18:15 INFO  root:25 - [3.0, 3.0, 2.0, 7.0, 5.0]
+2019-06-14 01:18:15 INFO  root:13 - Sorted vector:
+2019-06-14 01:18:15 INFO  root:25 - [2.0, 3.0, 3.0, 5.0, 7.0]
+2019-06-14 01:18:15 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:18:15 INFO  root:13 - Sorted vector:
+2019-06-14 01:18:15 INFO  root:25 - [7.0, 5.0, 3.0, 3.0, 2.0]
+2019-06-14 01:18:15 INFO  root:13 - Sorted vector:
+2019-06-14 01:18:15 INFO  root:25 - [2.0, 3.0, 3.0, 5.0, 7.0]
+2019-06-14 01:18:15 INFO  root:13 - Sorted vector:
+2019-06-14 01:18:15 INFO  root:25 - [7.0, 5.0, 3.0, 3.0, 2.0]
+2019-06-14 01:18:15 INFO  root:13 - Sorted vector:
+2019-06-14 01:18:15 INFO  root:25 - [2.0, 3.0, 3.0, 5.0, 7.0]
+2019-06-14 01:19:34 INFO  root:25 - [3.0, 2.0, 2.0, 6.0, 3.0]
+2019-06-14 01:19:34 INFO  root:13 - Maximum: 6.0
+2019-06-14 01:19:34 INFO  root:13 - Minimum: 6.0
+2019-06-14 01:19:34 INFO  root:13 - Arithmetic Mean: 3.2
+2019-06-14 01:19:34 INFO  root:13 - Geometric Mean: 2.9301560515835217
+2019-06-14 01:19:34 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:19:34 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:19:34 INFO  root:18 - The searching index 3
+2019-06-14 01:19:34 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:19:34 INFO  root:13 - Reverse vector:
+2019-06-14 01:19:34 INFO  root:25 - [3.0, 6.0, 2.0, 2.0, 3.0]
+2019-06-14 01:19:34 INFO  root:13 - Sorted vector:
+2019-06-14 01:19:34 INFO  root:25 - [2.0, 2.0, 3.0, 3.0, 6.0]
+2019-06-14 01:19:34 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:19:34 INFO  root:13 - Sorted vector:
+2019-06-14 01:19:34 INFO  root:25 - [6.0, 3.0, 3.0, 2.0, 2.0]
+2019-06-14 01:19:34 INFO  root:13 - Sorted vector:
+2019-06-14 01:19:34 INFO  root:25 - [2.0, 2.0, 3.0, 3.0, 6.0]
+2019-06-14 01:19:34 INFO  root:13 - Sorted vector:
+2019-06-14 01:19:34 INFO  root:25 - [6.0, 3.0, 3.0, 2.0, 2.0]
+2019-06-14 01:19:34 INFO  root:13 - Sorted vector:
+2019-06-14 01:19:34 INFO  root:25 - [2.0, 2.0, 3.0, 3.0, 6.0]
+2019-06-14 01:20:28 INFO  root:25 - [9.0, 6.0, 0.0, 9.0, 3.0]
+2019-06-14 01:20:28 INFO  root:13 - Maximum: 9.0
+2019-06-14 01:20:28 INFO  root:13 - Minimum: 9.0
+2019-06-14 01:20:28 INFO  root:13 - Arithmetic Mean: 5.4
+2019-06-14 01:20:28 INFO  root:13 - Geometric Mean: 0.0
+2019-06-14 01:20:28 INFO  root:13 - Result of sequence check is false
+2019-06-14 01:20:28 INFO  root:18 - The searching index 2
+2019-06-14 01:20:28 INFO  root:18 - The searching index 3
+2019-06-14 01:20:28 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:20:28 INFO  root:13 - Reverse vector:
+2019-06-14 01:20:28 INFO  root:25 - [3.0, 9.0, 0.0, 6.0, 9.0]
+2019-06-14 01:20:28 INFO  root:13 - Sorted vector:
+2019-06-14 01:20:28 INFO  root:25 - [0.0, 3.0, 6.0, 9.0, 9.0]
+2019-06-14 01:20:28 INFO  root:18 - In vector is not such an index -1
+2019-06-14 01:20:28 INFO  root:13 - Sorted vector:
+2019-06-14 01:20:28 INFO  root:25 - [9.0, 9.0, 6.0, 3.0, 0.0]
+2019-06-14 01:20:28 INFO  root:13 - Sorted vector:
+2019-06-14 01:20:28 INFO  root:25 - [0.0, 3.0, 6.0, 9.0, 9.0]
+2019-06-14 01:20:28 INFO  root:13 - Sorted vector:
+2019-06-14 01:20:28 INFO  root:25 - [9.0, 9.0, 6.0, 3.0, 0.0]
+2019-06-14 01:20:28 INFO  root:13 - Sorted vector:
+2019-06-14 01:20:28 INFO  root:25 - [0.0, 3.0, 6.0, 9.0, 9.0]
+2019-06-14 11:51:53 INFO  root:32 - [0.0, 1.0, 8.0, 6.0, 1.0]
+2019-06-14 11:51:53 INFO  root:20 - Maximum: 8.0
+2019-06-14 11:51:53 INFO  root:20 - Minimum: 8.0
+2019-06-14 11:51:53 INFO  root:20 - Arithmetic Mean: 3.2
+2019-06-14 11:51:53 INFO  root:20 - Geometric Mean: 0.0
+2019-06-14 11:51:53 INFO  root:20 - Result of sequence check is false
+2019-06-14 11:51:53 INFO  root:25 - In vector is not such an index -1
+2019-06-14 11:51:53 INFO  root:25 - The searching index 2
+2019-06-14 11:51:53 INFO  root:25 - In vector is not such an index -1
+2019-06-14 11:51:53 INFO  root:20 - Reverse vector:
+2019-06-14 11:51:53 INFO  root:32 - [1.0, 6.0, 8.0, 1.0, 0.0]
+2019-06-14 11:51:53 INFO  root:20 - Sorted vector:
+2019-06-14 11:51:53 INFO  root:32 - [0.0, 1.0, 1.0, 6.0, 8.0]
+2019-06-14 11:51:53 INFO  root:25 - In vector is not such an index -1
+2019-06-14 11:51:53 INFO  root:20 - Sorted vector:
+2019-06-14 11:51:53 INFO  root:32 - [8.0, 6.0, 1.0, 1.0, 0.0]
+2019-06-14 11:51:53 INFO  root:20 - Sorted vector:
+2019-06-14 11:51:53 INFO  root:32 - [0.0, 1.0, 1.0, 6.0, 8.0]
+2019-06-14 11:51:53 INFO  root:20 - Sorted vector:
+2019-06-14 11:51:53 INFO  root:32 - [8.0, 6.0, 1.0, 1.0, 0.0]
+2019-06-14 11:51:53 INFO  root:20 - Sorted vector:
+2019-06-14 11:51:53 INFO  root:32 - [0.0, 1.0, 1.0, 6.0, 8.0]
+2019-06-14 11:52:00 ERROR root:146 - checkSequence() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:253 - searchLinear() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:413 - insertionSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:84 - findMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:253 - searchLinear() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:146 - checkSequence() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:331 - bubbleSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:200 - findLocalMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:724 - add() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:605 - quickSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:44 - randInit() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:44 - randInit() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:104 - findArithmeticMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:200 - findLocalMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:125 - findGeometricMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:226 - findLocalMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:383 - insertionSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:125 - findGeometricMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:104 - findArithmeticMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:64 - findMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:554 - mergeSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:468 - selectionSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:276 - searchBinary() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:226 - findLocalMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:741 - remove() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:358 - bubbleSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:741 - remove() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:276 - searchBinary() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:310 - reverse() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:663 - quickSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:64 - findMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:84 - findMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:00 ERROR root:493 - mergeSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:00 ERROR root:443 - selectionSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:146 - checkSequence() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:253 - searchLinear() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:413 - insertionSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:84 - findMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:253 - searchLinear() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:146 - checkSequence() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:331 - bubbleSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:200 - findLocalMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:724 - add() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:605 - quickSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:44 - randInit() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:44 - randInit() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:104 - findArithmeticMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:200 - findLocalMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:125 - findGeometricMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:226 - findLocalMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:383 - insertionSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:125 - findGeometricMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:104 - findArithmeticMean() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:64 - findMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:554 - mergeSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:468 - selectionSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:276 - searchBinary() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:226 - findLocalMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:741 - remove() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:358 - bubbleSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:741 - remove() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:276 - searchBinary() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:310 - reverse() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:663 - quickSortDecrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:64 - findMax() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:84 - findMin() method got incorrect input data(array == null or vector.length == 0) 
+2019-06-14 11:52:59 ERROR root:493 - mergeSortIncrease() method got incorrect input data(array == null) 
+2019-06-14 11:52:59 ERROR root:443 - selectionSortIncrease() method got incorrect input data(array == null) 
